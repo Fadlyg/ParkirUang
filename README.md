@@ -20,12 +20,14 @@ Currently in **Phase 1 – Preparation**.
 - **SQLite** (via JDBC)
 
 ## Project Structure (planned)
+```
 ParkirUang/
 ├── docs/ # Documentation files (categories, ERD, format-date, etc.)
 ├── src/ # Java source code
 ├── schema.sql # Database schema
 ├── README.md # Project description
 └── .gitignore # Git ignore rules for Java projects
+```
 
 
 ## Roadmap
