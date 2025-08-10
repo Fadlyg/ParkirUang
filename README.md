@@ -1,5 +1,5 @@
 # ParkirUang
-is a simple CLI-based personal finance tracker built with Java and SQLite.  
+**Parkir Uang** is a simple CLI-based personal finance tracker built with Java and SQLite.  
 It helps you record income and expenses, view monthly summaries, and calculate your saving rate — all from the command line.
 
 ## Features (MVP)
